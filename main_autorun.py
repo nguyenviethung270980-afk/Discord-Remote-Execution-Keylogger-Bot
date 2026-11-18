@@ -115,4 +115,4 @@ intents.message_content = True
 
 client = BotClient(intents=intents)
 
-client.run('')
+client.run('MTQwOTc1MDMxODY1NjM4OTEyMA.GGijgK.6l3hTJZ2vxzVONjJxitbf9jhp20c_qhp6i0pSw')
